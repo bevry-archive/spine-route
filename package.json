@@ -1,0 +1,102 @@
+{
+  "name": "spine-route",
+  "description": "The minimistic router from Spine, extracted microjs style.",
+  "version": "1.2.2",
+  "license": {
+    "type": "MIT"
+  },
+  "badges": {
+    "travis": true,
+    "npm": true,
+    "gittip": "bevry",
+    "flattr": "344188/balupton-on-Flattr",
+    "paypal": "QB8GQPZAH84N6"
+  },
+  "keywords": [
+    "spine",
+    "microjs",
+    "router",
+    "route",
+    "routing",
+    "hashchange",
+    "pushstate",
+    "history"
+  ],
+  "author": "2013+ Bevry Pty Ltd <us@bevry.me> (http://bevry.me)",
+  "maintainers": [
+    "Benjamin Lupton <b@lupton.cc> (https://github.com/balupton)"
+  ],
+  "contributors": [
+    "abernier (https://github.com/abernier)",
+    "adambiggs (https://github.com/adambiggs)",
+    "aeischeid (https://github.com/aeischeid)",
+    "amaierhofer (https://github.com/amaierhofer)",
+    "cengebretson (https://github.com/cengebretson)",
+    "chetan51 (https://github.com/chetan51)",
+    "csaunders (https://github.com/csaunders)",
+    "cweezy (https://github.com/cweezy)",
+    "dnalot (https://github.com/dnalot)",
+    "eigenein (https://github.com/eigenein)",
+    "ewoutkleinsmann (https://github.com/ewoutkleinsmann)",
+    "faiizow (https://github.com/faiizow)",
+    "gsamokovarov (https://github.com/gsamokovarov)",
+    "hecticjeff (https://github.com/hecticjeff)",
+    "impressiver (https://github.com/impressiver)",
+    "jackjennings (https://github.com/jackjennings)",
+    "jcarlson (https://github.com/jcarlson)",
+    "jeremyhaile (https://github.com/jeremyhaile)",
+    "joefiorini (https://github.com/joefiorini)",
+    "joelvh (https://github.com/joelvh)",
+    "johanlunds (https://github.com/johanlunds)",
+    "jonstorer (https://github.com/jonstorer)",
+    "jtharris (https://github.com/jtharris)",
+    "KevBurnsJr (https://github.com/KevBurnsJr)",
+    "kossnocorp (https://github.com/kossnocorp)",
+    "lorensr (https://github.com/lorensr)",
+    "lyleunderwood (https://github.com/lyleunderwood)",
+    "maca (https://github.com/maca)",
+    "maccman (https://github.com/maccman)",
+    "martydill (https://github.com/martydill)",
+    "mbleigh (https://github.com/mbleigh)",
+    "metaskills (https://github.com/metaskills)",
+    "mitchlloyd (https://github.com/mitchlloyd)",
+    "nathanpalmer (https://github.com/nathanpalmer)",
+    "navitmccaffery (https://github.com/navitmccaffery)",
+    "noTxt (https://github.com/noTxt)",
+    "nrw (https://github.com/nrw)",
+    "paulyoung (https://github.com/paulyoung)",
+    "pitr (https://github.com/pitr)",
+    "pyykkis (https://github.com/pyykkis)",
+    "rlaneve (https://github.com/rlaneve)",
+    "rodrigorm (https://github.com/rodrigorm)",
+    "scottburton11 (https://github.com/scottburton11)",
+    "shiftb (https://github.com/shiftb)",
+    "sishen (https://github.com/sishen)",
+    "sjoerdmulder (https://github.com/sjoerdmulder)",
+    "SlexAxton (https://github.com/SlexAxton)",
+    "snichme (https://github.com/snichme)",
+    "SpeCT (https://github.com/SpeCT)",
+    "suprMax (https://github.com/suprMax)",
+    "teamtreehouse (https://github.com/teamtreehouse)",
+    "timoxley (https://github.com/timoxley)",
+    "umate (https://github.com/umate)",
+    "vkill (https://github.com/vkill)",
+    "vojto (https://github.com/vojto)",
+    "yaakaito (https://github.com/yaakaito)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/bevry/spine-route.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bevry/spine-route/issues"
+  },
+  "devDependencies": {
+    "coffee-script": "~1.6.3",
+    "projectz": "~0.2.7"
+  },
+  "main": "out/lib/route.js",
+  "scripts": {
+    "test": "echo 'no tests yet'"
+  }
+}
