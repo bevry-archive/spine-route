@@ -1,3 +1,5 @@
+$ = @$ or window?.$ or (try require?('jquery'))
+
 hashStrip    = /^#*/
 namedParam   = /:([\w\d]+)/g
 splatParam   = /\*([\w\d]+)/g
