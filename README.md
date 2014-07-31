@@ -39,7 +39,7 @@ The minimistic router from Spine, extracted microjs style.
 ### [Browserify](http://browserify.org/)
 - Use: `require('spine-route')`
 - Install: `npm install --save spine-route`
-- CDN URL: `//wzrd.in/bundle/spine-route@1.0.0`
+- CDN URL: `//wzrd.in/bundle/spine-route@1.0.1`
 
 ### [Ender](http://ender.jit.su/)
 - Use: `require('spine-route')`
