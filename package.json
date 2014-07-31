@@ -8,9 +8,13 @@
   "badges": {
     "travis": true,
     "npm": true,
+    "david": true,
+    "daviddev": true,
     "gittip": "bevry",
     "flattr": "344188/balupton-on-Flattr",
-    "paypal": "QB8GQPZAH84N6"
+    "paypal": "QB8GQPZAH84N6",
+    "bitcoin": "https://coinbase.com/checkouts/9ef59f5479eec1d97d63382c9ebcb93a",
+    "wishlist": "http://amzn.com/w/2F8TXKSNAFG4V"
   },
   "keywords": [
     "spine",
@@ -27,7 +31,8 @@
     "Benjamin Lupton <b@lupton.cc> (https://github.com/balupton)"
   ],
   "contributors": [
-    "Benjamin Lupton <b@lupton.cc> (https://github.com/balupton)"
+    "Benjamin Lupton <b@lupton.cc> (https://github.com/balupton)",
+    "Zearin (https://github.com/Zearin)"
   ],
   "repository": {
     "type": "git",
@@ -37,11 +42,16 @@
     "url": "https://github.com/bevry/spine-route/issues"
   },
   "devDependencies": {
-    "coffee-script": "~1.6.3",
-    "projectz": "~0.2.7"
+    "coffee-script": "~1.7.1",
+    "projectz": "~0.3.14"
   },
+  "browsers": true,
   "main": "./out/lib/route.js",
   "scripts": {
     "test": "echo 'no tests yet'"
+  },
+  "cakeConfiguration": {
+    "COFFEE_SRC_PATH": "src",
+    "BISCOTTO_SRC_PATH": "src"
   }
 }

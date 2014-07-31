@@ -15,4 +15,3 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 <!-- /LICENSEFILE -->
 
 
-This work is based off prior work by [Alex MacCaw](http://alexmaccaw.com/) and the [Spine](http://spinejs.com/) team, [view their license here](https://github.com/spine/spine/blob/master/LICENSE).
