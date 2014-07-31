@@ -1,7 +1,7 @@
 {
   "name": "spine-route",
   "description": "The minimistic router from Spine, extracted microjs style.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": {
     "type": "MIT"
   },
@@ -45,7 +45,9 @@
     "coffee-script": "~1.7.1",
     "projectz": "~0.3.14"
   },
-  "browsers": true,
+  "browser": {
+    "jquery": false
+  },
   "main": "./out/lib/route.js",
   "scripts": {
     "test": "echo 'no tests yet'"
